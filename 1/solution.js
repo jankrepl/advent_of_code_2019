@@ -31,4 +31,3 @@ function computeFuel(accountForFuel) {
 
 computeFuel(false);  // first task
 computeFuel(true);  // second task
-

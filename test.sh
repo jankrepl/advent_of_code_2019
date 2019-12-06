@@ -1,5 +1,5 @@
 # Script checking all solutions
-PROBLEMS=( 1 )
+PROBLEMS=( 1 2)
 
 for i in "${PROBLEMS[@]}"
 do
